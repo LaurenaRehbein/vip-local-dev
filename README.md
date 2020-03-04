@@ -1,4 +1,4 @@
-# Jeff's Local VIP Go Dev Env
+# Laurena's copy of Jeff's Local VIP Go Dev Env
 
 w00t
 
