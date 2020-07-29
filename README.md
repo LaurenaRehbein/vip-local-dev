@@ -16,3 +16,4 @@ w00t
 You can issue CLI commands like so:
 
 `docker-compose run wpcli wp post list`
+Hi Laurena
